@@ -1,0 +1,68 @@
+/* Resets and Standards */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+}
+
+/* Sections */
+#hero {
+  background-color: #7fcd91;
+  color: #5b5656;
+}
+
+#cards {
+  background-color: #5b5656;
+  color: #f5eaea;
+}
+
+#projects {
+}
+
+#footer {
+  background-color: #7fcd91;
+}
+
+/* Classes */
+
+.headline {
+  margin: auto;
+}
+
+.stand-out {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 5.5rem;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.container {
+  text-align: center;
+}
+
+.profile-image {
+  border-radius: 100%;
+}
+
+.profile-image:hover {
+  transform: rotate(25deg);
+}
+
+.content {
+  padding: 5% 0 5% 0;
+}
+
+.icons:hover {
+  color: #7fcd91;
+}
